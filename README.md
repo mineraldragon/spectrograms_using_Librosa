@@ -37,7 +37,7 @@ output_path = './spec2.png'
 skimage.io.imsave(output_path, img)
 ```
 
-The saved image looks like this:
+The saved image looks like this (gray scale turns whiter as value increases):
 
 ![spec1](https://user-images.githubusercontent.com/9972594/156889978-be0af6d0-7029-4836-995c-0c4344ef38a6.png)
 
